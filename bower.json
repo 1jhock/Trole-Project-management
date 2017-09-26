@@ -1,0 +1,26 @@
+{
+  "name": "project-based-management-app",
+  "description": "A github for non-programmers.",
+  "main": "index.js",
+  "authors": [
+    "Jack Owen Bula"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "project"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "vis": "^4.20.1",
+    "moment": "momentjs#^2.18.1",
+    "bootstrap": "^3.3.7"
+  }
+}

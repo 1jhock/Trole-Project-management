@@ -1,0 +1,30 @@
+{
+  "name": "project-based-management-app",
+  "version": "1.0.0",
+  "description": "A github for non-programmers.",
+  "main": "index.js",
+  "scripts": {
+    "gulp":"gulp"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "Jack Owen Bula",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-cli": "^1.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.8.0",
+    "gulp-copy": "^1.0.1",
+    "gulp-csso": "^3.0.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-minify": "^1.0.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^1.0.2",
+    "wiredep": "^4.0.0"
+  }
+}
